@@ -20,4 +20,9 @@ Dataset can be downloaded through this [link](http://www.cbsr.ia.ac.cn/users/xia
 * mediapipe
 
 ##Output<br/>
-![gif](https://user-images.githubusercontent.com/50074808/224492547-d9cbabc2-35f1-4ab5-81e3-23f91c50feef.mp4)
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/50074808/224493194-068c1dff-c831-4d45-9540-83ee920cca88.gif)
+<br/>
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/50074808/224493243-47ebca4d-0527-481d-9bf3-3c11d127fb95.gif)
+
+
