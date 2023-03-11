@@ -19,7 +19,8 @@ Dataset can be downloaded through this [link](http://www.cbsr.ia.ac.cn/users/xia
 * openCV
 * mediapipe
 
-##Output<br/>
+## Output
+<br/>
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/50074808/224493194-068c1dff-c831-4d45-9540-83ee920cca88.gif)
 <br/>
